@@ -1,43 +1,36 @@
 # Hi, I'm Minhas Shakeel 👋
 
-### Artificial Intelligence Graduate | Aspiring Data Analyst & AI/ML Engineer
+🎓 BS Artificial Intelligence Graduate  
+📍 Karachi, Pakistan  
+💻 Interested in Artificial Intelligence, Machine Learning, and Data Analytics
 
-I am a 2026 BS Artificial Intelligence graduate from Sindh Madressatul Islam University, Karachi, Pakistan.
+## About Me
 
-I am interested in Artificial Intelligence, Machine Learning, Data Science, Data Analytics, and Python development.
+I am an Artificial Intelligence graduate interested in applying data science and machine learning techniques to practical problems. I have worked on academic and project-based work involving sports analytics, player selection, and customer support automation.
 
-Currently, I am developing a Sports Analytics and Player Selection System as my Final Year Project, focusing on performance analysis across 8 indoor and outdoor games.
+I am currently exploring entry-level opportunities in AI, Machine Learning, and Data Analytics.
 
-### 🛠️ Technical Skills
+## Technical Skills
 
-* **Programming:** Python
-* **Data Analysis:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn, Power BI
-* **Machine Learning:** Scikit-learn, Deep Learning
-* **Data Querying:** SQL
-* **Development Environment:** Jupyter Notebook
-* **AI Models:** Transformer Models
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, Machine Learning, Deep Learning
+- **Additional:** Transformer Models, Power BI, Jupyter Notebook
 
-### 🚀 Featured Project
+## Featured Project
 
-**Sports Analytics and Player Selection System**
+### Sports Analytics and Player Selection System
+Completed Final Year Project focused on sports analytics and player selection across 8 indoor and outdoor games, with 10 functions and metrics.
 
-* Final Year Project — In Progress
-* Focused on 8 indoor and outdoor games
-* Designing 10 analytical functions for player evaluation
-* Includes player performance metrics and selection analysis
-* Incorporates transformer-based models
+[View FYP Repository]([https://github.com/Minhasshakeel/sports-analytics-player-selection](https://github.com/Minhasshakeel/sports-analytics-player-selection)
 
-### 📜 Certifications
+## Certifications
 
-* AI & Machine Learning — Saylani
-* Machine Learning Specialization — Coursera
+- AI & Machine Learning — Saylani
+- Machine Learning Specialization — Coursera
 
-### 📫 Connect With Me
+## Connect with Me
 
-* LinkedIn: [Minhas Shakeel](https://www.linkedin.com/in/minhas-shakeel/)
-* Email: [minhasshakeel44@gmail.com](mailto:minhasshakeel44@gmail.com)
-
-### 🌍 Career Interests
-
-Open to exploring entry-level opportunities in Data Analytics, Artificial Intelligence, Machine Learning, and Python development.
+- [LinkedIn](https://www.linkedin.com/in/minhas-shakeel/)
+- [GitHub](https://github.com/Minhasshakeel)
+- Email: minhasshakeel44@gmail.com
